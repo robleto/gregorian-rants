@@ -1,5 +1,4 @@
 ---
-layout: blog
 title: Test blog post
 description: this is the description of the test blog post
 author: Greg
