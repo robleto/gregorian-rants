@@ -1,11 +1,12 @@
 ---
+author: Greg
+thumbnail: /assets/blog/2022-12-09_12-04-43.png
 title: NewTest blog post
 description: this is the description of the test blog post
-author: Greg
-date: 2022-12-09T21:07:47.534Z
+date: 2022-12-08T21:07:47.534Z
 tags:
   - post
-thumbnail: /assets/blog/2022-12-09_12-04-43.png
+image: /assets/blog/2022-12-09_12-04-43.png
 imageAlt: Christmastime
 ---
 Yerga derga flerga blerga, mundus Star Wars est plenus periculis et mirabilibus! In hac fabulosa historia, bellatores fortissimi et magi sapientissimi pugnant contra vim malam, ut salvent mundum ab caedibus et destructione.
